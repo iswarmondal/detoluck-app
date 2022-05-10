@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "detoluck-app",
+    "name": "detoluck",
     "slug": "detoluck-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/detoluck.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/detoluck_splash_screen.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,8 +21,9 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "detoluck.com",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/detoluck - android.png",
         "backgroundColor": "#FFFFFF"
       }
     },
